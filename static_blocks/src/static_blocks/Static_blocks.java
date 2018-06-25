@@ -20,8 +20,8 @@ public class Static_blocks {
     }
     static{
         System.out.println("I am in the class block");
-        String ss[] = null;
-        Static_blocks.main(ss);
+        String pp[] = null;
+        Static_blocks.main(pp);
         System.out.println("I quit the class block");
     }
     
